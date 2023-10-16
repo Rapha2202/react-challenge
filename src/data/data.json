@@ -47,6 +47,38 @@
             "price": 7.99,
             "image": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/A3E6EA3E567FCF493467B4EADE7F33FD08CF4228318492B6B79BA90714704BBB/scale?width=1200&aspectRatio=1.78&format=jpeg",
             "category": "Dystopian"
+        },
+        {
+            "id": 7,
+            "title": "The Fault in Our Stars",
+            "description": "The Fault in Our Stars is a novel by John Green. It is his fourth solo novel, and sixth novel overall.",
+            "price": 7.99,
+            "image": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/459EF8E90B72194883DBDAEC0C4EA6179185D57DE0947832F52288DC09F30329/scale?width=1200&aspectRatio=1.78&format=jpeg",
+            "category": "Romance"
+        },
+        {
+            "id": 8,
+            "title": "The Notebook",
+            "description": "The Notebook is a 1996 romantic novel by American novelist Nicholas Sparks, The novel was later adapted into a popular film of the same name, in 2004.",
+            "price": 7.99,
+            "image": "https://www.lebleudumiroir.fr/wp-content/uploads/2009/04/notebookthe_photos_1-e1405441941918.jpg",
+            "category": "Romance"
+        },
+        {
+            "id": 9,
+            "title": "The Time Traveler's Wife",
+            "description": "The Time Traveler's Wife is the debut novel of American author Audrey Niffenegger, published in 2003.",
+            "price": 7.99,
+            "image": "https://images1.resources.foxtel.com.au/store2/mount1/16/4/biouk.jpg",
+            "category": "Romance"
+        },
+        {
+            "id": 10,
+            "title": "The Da Vinci Code",
+            "description": "The Da Vinci Code is a 2003 mystery thriller novel by Dan Brown. It is Brown's second novel to include the character Robert Langdon: the first was his 2000 novel Angels & Demons.",
+            "price": 7.99,
+            "image": "https://www.echosciences-sud.fr/uploads/body_image/attachment/1005506289/da_vinci_code_au_cin%C3%A9ma.jpg",
+            "category": "Mystery"
         }
     ]
 }
