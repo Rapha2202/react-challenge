@@ -1,7 +1,8 @@
+import { useState } from "react"
 
-
+//                <div className={isLiked ? "fav" : "notfav"} onClick={() => setIsLiked(!isLiked)}></div>
 function Card({ article }) {
-
+    const [isLiked, setIsLiked] = useState(false);
 
     return (
         <div>

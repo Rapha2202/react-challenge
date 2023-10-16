@@ -6,7 +6,7 @@
             "description": "The Lord of the Rings is an epic high-fantasy novel written by English author and scholar J. R. R. Tolkien.",
             "price": 10.99,
             "image": "https://deadline.com/wp-content/uploads/2022/08/lord-of-the-rings-feature-image.jpg?w=1000",
-            "category": "Fantasy"
+            "category": "fantasy"
         },
         {
             "id": 2,
@@ -14,7 +14,7 @@
             "description": "The Hobbit, or There and Back Again is a children's fantasy novel by English author J. R. R. Tolkien.",
             "price": 9.99,
             "image": "https://static.hitek.fr/img/actualite/ill_m/158956086/lehobbittrilogie.jpg",
-            "category": "Fantasy"
+            "category": "fantasy"
         },
         {
             "id": 3,
@@ -22,7 +22,7 @@
             "description": "Harry Potter and the Philosopher's Stone is a fantasy novel written by British author J. K. Rowling.",
             "price": 8.99,
             "image": "https://i.ytimg.com/vi/kiIoydThaWo/maxresdefault.jpg",
-            "category": "Fantasy"
+            "category": "fantasy"
         },
         {
             "id": 4,
@@ -30,7 +30,7 @@
             "description": "The Hunger Games is a 2008 dystopian novel by the American writer Suzanne Collins.",
             "price": 7.99,
             "image": "https://www.denofgeek.com/wp-content/uploads/2021/05/hunger-games-winners-ranked.jpeg?resize=768%2C432",
-            "category": "Dystopian"
+            "category": "dystopian"
         },
         {
             "id": 5,
@@ -38,7 +38,7 @@
             "description": "Catching Fire is a 2009 science fiction young adult novel by the American novelist Suzanne Collins.",
             "price": 7.99,
             "image": "https://static01.nyt.com/images/2013/11/25/arts/boxoffice/boxoffice-superJumbo.jpg",
-            "category": "Dystopian"
+            "category": "dystopian"
         },
         {
             "id": 6,
@@ -46,7 +46,7 @@
             "description": "The Maze Runner is a 2009 young adult dystopian science fiction novel written by American author James Dashner.",
             "price": 7.99,
             "image": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/A3E6EA3E567FCF493467B4EADE7F33FD08CF4228318492B6B79BA90714704BBB/scale?width=1200&aspectRatio=1.78&format=jpeg",
-            "category": "Dystopian"
+            "category": "dystopian"
         },
         {
             "id": 7,
@@ -54,7 +54,7 @@
             "description": "The Fault in Our Stars is a novel by John Green. It is his fourth solo novel, and sixth novel overall.",
             "price": 7.99,
             "image": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/459EF8E90B72194883DBDAEC0C4EA6179185D57DE0947832F52288DC09F30329/scale?width=1200&aspectRatio=1.78&format=jpeg",
-            "category": "Romance"
+            "category": "romance"
         },
         {
             "id": 8,
@@ -62,7 +62,7 @@
             "description": "The Notebook is a 1996 romantic novel by American novelist Nicholas Sparks, The novel was later adapted into a popular film of the same name, in 2004.",
             "price": 7.99,
             "image": "https://www.lebleudumiroir.fr/wp-content/uploads/2009/04/notebookthe_photos_1-e1405441941918.jpg",
-            "category": "Romance"
+            "category": "romance"
         },
         {
             "id": 9,
@@ -70,7 +70,7 @@
             "description": "The Time Traveler's Wife is the debut novel of American author Audrey Niffenegger, published in 2003.",
             "price": 7.99,
             "image": "https://images1.resources.foxtel.com.au/store2/mount1/16/4/biouk.jpg",
-            "category": "Romance"
+            "category": "romance"
         },
         {
             "id": 10,
@@ -78,7 +78,7 @@
             "description": "The Da Vinci Code is a 2003 mystery thriller novel by Dan Brown. It is Brown's second novel to include the character Robert Langdon: the first was his 2000 novel Angels & Demons.",
             "price": 7.99,
             "image": "https://www.echosciences-sud.fr/uploads/body_image/attachment/1005506289/da_vinci_code_au_cin%C3%A9ma.jpg",
-            "category": "Mystery"
+            "category": "mystery"
         }
     ]
 }
