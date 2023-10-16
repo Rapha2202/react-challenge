@@ -1,0 +1,52 @@
+{
+    "articles": [
+        {
+            "id": 1,
+            "title": "The Lord of the Rings",
+            "description": "The Lord of the Rings is an epic high-fantasy novel written by English author and scholar J. R. R. Tolkien.",
+            "price": 10.99,
+            "image": "https://deadline.com/wp-content/uploads/2022/08/lord-of-the-rings-feature-image.jpg?w=1000",
+            "category": "Fantasy"
+        },
+        {
+            "id": 2,
+            "title": "The Hobbit",
+            "description": "The Hobbit, or There and Back Again is a children's fantasy novel by English author J. R. R. Tolkien.",
+            "price": 9.99,
+            "image": "https://static.hitek.fr/img/actualite/ill_m/158956086/lehobbittrilogie.jpg",
+            "category": "Fantasy"
+        },
+        {
+            "id": 3,
+            "title": "Harry Potter and the Philosopher's Stone",
+            "description": "Harry Potter and the Philosopher's Stone is a fantasy novel written by British author J. K. Rowling.",
+            "price": 8.99,
+            "image": "https://i.ytimg.com/vi/kiIoydThaWo/maxresdefault.jpg",
+            "category": "Fantasy"
+        },
+        {
+            "id": 4,
+            "title": "The Hunger Games",
+            "description": "The Hunger Games is a 2008 dystopian novel by the American writer Suzanne Collins.",
+            "price": 7.99,
+            "image": "https://www.denofgeek.com/wp-content/uploads/2021/05/hunger-games-winners-ranked.jpeg?resize=768%2C432",
+            "category": "Dystopian"
+        },
+        {
+            "id": 5,
+            "title": "Catching Fire",
+            "description": "Catching Fire is a 2009 science fiction young adult novel by the American novelist Suzanne Collins.",
+            "price": 7.99,
+            "image": "https://static01.nyt.com/images/2013/11/25/arts/boxoffice/boxoffice-superJumbo.jpg",
+            "category": "Dystopian"
+        },
+        {
+            "id": 6,
+            "title": "The Maze Runner",
+            "description": "The Maze Runner is a 2009 young adult dystopian science fiction novel written by American author James Dashner.",
+            "price": 7.99,
+            "image": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/A3E6EA3E567FCF493467B4EADE7F33FD08CF4228318492B6B79BA90714704BBB/scale?width=1200&aspectRatio=1.78&format=jpeg",
+            "category": "Dystopian"
+        }
+    ]
+}
